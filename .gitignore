@@ -1,0 +1,11 @@
+.env
+temp/
+venv/
+Notebooks/.*
+data/*
+data/.*
+.DS_Store
+data/videos_preliminares.csv
+data/comments.csv
+data/.ipynb_checkpoints/comments-checkpoint.csv
+data/.ipynb_checkpoints/videos_preliminares-checkpoint.csv
