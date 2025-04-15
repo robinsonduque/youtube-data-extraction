@@ -5,3 +5,4 @@ Notebooks/.*
 data/.*
 data/*.csv
 .DS_Store
+.ipynb_checkpoints/
