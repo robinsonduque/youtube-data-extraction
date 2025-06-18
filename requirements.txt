@@ -75,7 +75,7 @@ nbclient==0.10.2
 nbconvert==7.16.6
 nbformat==5.10.4
 nest-asyncio==1.6.0
-networkx==3.4.2
+networkx==3.5
 nltk==3.9.1
 notebook==7.3.2
 notebook_shim==0.2.4
@@ -104,8 +104,6 @@ python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
 python-json-logger==3.3.0
 pytz==2025.1
-pywin32==310
-pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==26.2.1
 referencing==0.36.2
@@ -129,6 +127,7 @@ sumy==0.11.0
 sympy==1.13.3
 tenacity==9.1.2
 terminado==0.18.1
+texttable==1.7.0
 threadpoolctl==3.5.0
 tinycss2==1.4.0
 tokenizers==0.21.0
